@@ -30,4 +30,4 @@ else:
 
 
 # My sources come from w3c and fellow classmates
-#
+# https://github.com/BLaue25/Python-Dice-Roll-Project
